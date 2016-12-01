@@ -23,7 +23,9 @@
     // 把背景设置为透明，不然会挡住缩放图片
     headerView.backgroundColor = [UIColor clearColor];
     tableView.tableHeaderView = headerView;
+    // 设置缩放图片
     tableView.ms_headerScaleImage = [UIImage imageNamed:@"headerImage.jpg"];
+    // 设置默认高度
     tableView.ms_defaultDisplayRectHeight = 150;
     
     [self.view addSubview:tableView];

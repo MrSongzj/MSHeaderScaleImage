@@ -1,0 +1,16 @@
+PODS:
+  - MSHeaderScaleImage (1.0.0)
+
+DEPENDENCIES:
+  - MSHeaderScaleImage (from `..`)
+
+EXTERNAL SOURCES:
+  MSHeaderScaleImage:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  MSHeaderScaleImage: 6629eee76996313332f628b824e6d88a5c9b1f8b
+
+PODFILE CHECKSUM: 435eb197e49656037a92449bd99c37d8f502c8bb
+
+COCOAPODS: 1.2.0.beta.1
